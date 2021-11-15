@@ -10,6 +10,7 @@ let lastName = "Stark";
 
 /* Do the following using `+` operator
   - Alert message saying `I am [username] and my bio is [bio]`. Replace square brackets with the value of variable.
+  im
   - Alert the message `I'm Arya Stark of Winterfell` using the variable name firstName and lastName.
 */
 
