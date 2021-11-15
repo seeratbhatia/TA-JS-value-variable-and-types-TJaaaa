@@ -15,7 +15,7 @@ let num2 = 32;
 - Alert message saying `I am learning [language]`
 - Alert `The value of num1 is [num1] and the value of num2 is [num2]`
 - Alert `The sum of [num1] and [num2] is [num1 + num1]`
-*/
+*/num
 
 /*
 2. Do the following using `alert`, `prompt` and `confirm` and `console`
