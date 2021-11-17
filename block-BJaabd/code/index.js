@@ -5,6 +5,7 @@
 Write a program that asks the user his/her age and check for the following conditions :
 
 - `if` the age is between 12-55 then print the message "You can participate in the marathon".
+12
 - `if` the age is between 4-11 then print the message " You are too young to participate in the marathon".
 - `if` the age is less than 4 then print the message " Hey Kiddo! Can You Walk ?"
 - `if` the age is greater than 55 then print the message " You are too old to participate in the marthon".
