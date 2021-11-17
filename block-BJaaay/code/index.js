@@ -3,6 +3,7 @@
 // Do the following using loops:
 
 // Using `console.log` log all the values from 1 to 10.
+l
 
 // Using `console.log` log all the evan values from 1 to 10.
 
